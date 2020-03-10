@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="36d23c90-24b7-4ad4-966b-072d0b799876" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/teste" />
+  </component>
+  <component name="ProjectId" id="1XlJSVrT7hVUjkZu4yAFgFXROqe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="HTML" />
+    <property name="jsx.switch.disabled" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../maratonadev" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36d23c90-24b7-4ad4-966b-072d0b799876" name="Default Changelist" comment="" />
+      <created>1581614747237</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581614747237</updated>
+      <workItem from="1581614748762" duration="268000" />
+      <workItem from="1581683049394" duration="897000" />
+      <workItem from="1581908563537" duration="1072000" />
+      <workItem from="1581911063799" duration="1330000" />
+      <workItem from="1581943532036" duration="1288000" />
+      <workItem from="1582861863340" duration="2168000" />
+      <workItem from="1582913589736" duration="414000" />
+      <workItem from="1583110647315" duration="20000" />
+      <workItem from="1583297318056" duration="1830000" />
+      <workItem from="1583338717591" duration="251000" />
+      <workItem from="1583363131478" duration="350000" />
+      <workItem from="1583500274048" duration="11684000" />
+      <workItem from="1583667817950" duration="1951000" />
+      <workItem from="1583690237631" duration="9025000" />
+      <workItem from="1583718735389" duration="20000" />
+      <workItem from="1583767206712" duration="6650000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="443" y="252" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1582861909077">
+      <screen x="0" y="36" width="1366" height="732" />
+    </state>
+    <state x="443" y="252" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.36.1366.732@0.36.1366.732" timestamp="1582861909077" />
+    <state x="466" y="160" width="426" height="496" key="FileChooserDialogImpl" timestamp="1581945184183">
+      <screen x="0" y="36" width="1366" height="732" />
+    </state>
+    <state x="466" y="160" width="426" height="496" key="FileChooserDialogImpl/0.36.1366.732/1366.0.1366.768@0.36.1366.732" timestamp="1581945184183" />
+    <state x="869" y="165" width="672" height="575" key="search.everywhere.popup" timestamp="1583699733705">
+      <screen x="0" y="36" width="1366" height="732" />
+    </state>
+    <state x="869" y="165" width="672" height="575" key="search.everywhere.popup/0.36.1366.732/1366.0.1280.1024@0.36.1366.732" timestamp="1583699733705" />
+    <state x="1786" y="188" width="672" height="678" key="search.everywhere.popup/0.36.2806.864@0.36.2806.864" timestamp="1583509736429" />
+  </component>
+</project>
