@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36d23c90-24b7-4ad4-966b-072d0b799876" name="Default Changelist" comment="" />
+    <list default="true" id="36d23c90-24b7-4ad4-966b-072d0b799876" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/js/app/controllers/NegociacaoController.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/js/app/controllers/NegociacaoController.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +20,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/teste" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1XlJSVrT7hVUjkZu4yAFgFXROqe" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -29,7 +34,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="HTML" />
     <property name="jsx.switch.disabled" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../maratonadev" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../teste-fonetica" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="ServiceViewManager">
@@ -70,6 +75,13 @@
       <workItem from="1583690237631" duration="9025000" />
       <workItem from="1583718735389" duration="20000" />
       <workItem from="1583767206712" duration="6650000" />
+      <workItem from="1583816615312" duration="1380000" />
+      <workItem from="1583925573463" duration="641000" />
+      <workItem from="1583927546424" duration="4067000" />
+      <workItem from="1584014337015" duration="241000" />
+      <workItem from="1584319426531" duration="599000" />
+      <workItem from="1584349161074" duration="4645000" />
+      <workItem from="1584433938793" duration="347000" />
     </task>
     <servers />
   </component>
@@ -81,10 +93,15 @@
       <screen x="0" y="36" width="1366" height="732" />
     </state>
     <state x="443" y="252" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.36.1366.732@0.36.1366.732" timestamp="1582861909077" />
-    <state x="466" y="160" width="426" height="496" key="FileChooserDialogImpl" timestamp="1581945184183">
-      <screen x="0" y="36" width="1366" height="732" />
+    <state x="1906" y="130" width="426" height="496" key="FileChooserDialogImpl" timestamp="1583926211845">
+      <screen x="1440" y="0" width="1366" height="768" />
     </state>
     <state x="466" y="160" width="426" height="496" key="FileChooserDialogImpl/0.36.1366.732/1366.0.1366.768@0.36.1366.732" timestamp="1581945184183" />
+    <state x="1906" y="130" key="FileChooserDialogImpl/1440.0.1366.768/0.36.1440.864@1440.0.1366.768" timestamp="1583926211845" />
+    <state x="351" y="68" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584370023169">
+      <screen x="0" y="36" width="1366" height="732" />
+    </state>
+    <state x="351" y="68" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.36.1366.732/1366.0.1366.768@0.36.1366.732" timestamp="1584370023169" />
     <state x="869" y="165" width="672" height="575" key="search.everywhere.popup" timestamp="1583699733705">
       <screen x="0" y="36" width="1366" height="732" />
     </state>
